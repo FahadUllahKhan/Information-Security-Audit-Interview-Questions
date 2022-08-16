@@ -65,7 +65,8 @@ What type the privacy data does the GDPR protect..?
 
 What is Risk Register..?
 =========================
-Risk Register is a tool in risk managment that is used to iedntify wisk in a particular project or across a company. Simply, like in VA/PT we can creat an vulneability tracking sheet. Included in the risk resigter:
+Risk Register is a tool in risk managment that is used to iedntify risk in a particular project or across a company. Simply, like in VA/PT we can creat an vulneability tracking sheet. 
+Included in the risk resigter:
 
    - Risk Description
    - Cause
