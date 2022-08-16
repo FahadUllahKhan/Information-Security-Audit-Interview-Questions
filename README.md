@@ -31,16 +31,16 @@ What is PCI DSS Compliance..?
 PCI DSS stand for Payment Card Industry Data Security Standred (PCI DSS), is a set requirments intended to ensure that all companies that process, store or trnasmite credit card information mantain secure enviorment.
 There are 12 Requirments of PCI DSS compliance.
 
-	- Use and mantain firewall
-	- Proper Password Protection
-	- Protect CardHoler Data
-	- Encrypt Transmited Data
-	- Use and Matain Anti-Virus
-	- Proper Update softwares
-	- Restrict Data Access
-	- Ristrict Physical Access
-	- Scan and Test for Vulnerabilities
-	- Document Policies 
+   - Use and mantain firewall
+   - Proper Password Protection
+   - Protect CardHoler Data
+   - Encrypt Transmited Data
+   - Use and Matain Anti-Virus
+   - Proper Update softwares
+   - Restrict Data Access
+   - Ristrict Physical Access
+   - Scan and Test for Vulnerabilities
+   - Document Policies 
 
 What is HIPAA Compliance..?
 =========================
@@ -50,18 +50,18 @@ What is HIPAA Compliance..?
 
 What is GDPR Compliance..?
 =========================
-GDPR stand for General Data Protection Regulation(GDPR). GDPR is a regulation that requires businesses to protect the personal data and privacy of EU(European Union).citizens for tansaction that occer within EU member states.
-When a bank retain European Union custome data then GDPR comliance will be applied.
+GDPR stand for General Data Protection Regulation(GDPR). GDPR is a regulation that requires businesses to protect the personal data and privacy of EU(European Union) citizens for tansaction that occer within EU member states.
+When a bank retain European Union customers data then GDPR comliance will be applied.
 	
-	What type the privacy data does the GDPR protect..?
+What type the privacy data does the GDPR protect..?
 		
-    - Basic identity information such as name, address and ID numbers
-    - Web data such as location, IP address, cookie data and RFID tags
-    - Health and genetic data
-    - Biometric data
-    - Racial or ethnic data
-    - Political opinions
-    - Sexual orientation
+   - Basic identity information such as name, address and ID numbers
+   - Web data such as location, IP address, cookie data and RFID tags
+   - Health and genetic data
+   - Biometric data
+   - Racial or ethnic data
+   - Political opinions
+   - Sexual orientation
 
 
 
