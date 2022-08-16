@@ -68,21 +68,21 @@ What is Risk Register..?
 Risk Register is a tool in risk managment that is used to iedntify risk in a particular project or across a company. Simply, like in VA/PT we can creat an vulneability tracking sheet. 
 Included in the risk resigter:
 
-   - Risk Description:
+   - Risk Description: =>
    	Describe the measured risk and how it threatens the organization.
-   - Cause:
+   - Cause: =>
    	The event or trigger that causes the risk to happen.
-   - Result of Impact:
+   - Result of Impact: =>
 	The impact your organization faces if the risk occurs.
-   - Likelihood:
+   - Likelihood: =>
    	How probable the risk is to happen to your company.
-   - OutCome:
+   - OutCome: =>
 	How detrimental the risk can be if it happens.
-   - Risk Level:
+   - Risk Level: =>
    	How high of a priority the risk is based on your risk matrix.
-   - Cost:
+   - Cost: =>
 	The expense to mitigate the risk or minimize its impact as much as possible.
-   - Mitigation Action:
+   - Mitigation Action: =>
 	The actions the security team carried out to mitigate the risk.
 
 
