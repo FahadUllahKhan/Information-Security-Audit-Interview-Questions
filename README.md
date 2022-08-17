@@ -85,5 +85,14 @@ Included in the risk resigter:
    - Mitigation Action: =>
 	The actions the security team carried out to mitigate the risk.
 
-
+What is Incident Response..?
+-
+Incident Response is term that describ the process in which an orginization handles a data breach OR cyber attack. and including the way to manage the consequences of the attack. 
+    There are SIX steps of incident response.
+   - Preparation
+   - identification
+   - containment
+   - Eradixation
+   - Recovery
+   - Lessons Learned
 
