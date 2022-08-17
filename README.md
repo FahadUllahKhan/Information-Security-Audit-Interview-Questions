@@ -92,7 +92,7 @@ Incident Response is term that describ the process in which an orginization hand
    - Preparation
    - identification
    - containment
-   - Eradixation
+   - Eradication
    - Recovery
    - Lessons Learned
 
